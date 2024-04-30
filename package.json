@@ -1,0 +1,30 @@
+{
+  "name": "gale",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.5.10",
+    "@astrojs/svelte": "^5.4.0",
+    "@astrojs/tailwind": "^5.1.0",
+    "@rive-app/canvas": "^2.15.0",
+    "@theatre/core": "^0.7.1",
+    "@theatre/studio": "^0.7.1",
+    "@threlte/core": "^7.3.0",
+    "@threlte/extras": "^8.11.2",
+    "@threlte/theatre": "^2.1.7",
+    "@types/three": "^0.164.0",
+    "astro": "^4.7.0",
+    "svelte": "^4.2.15",
+    "tailwindcss": "^3.4.3",
+    "three": "^0.164.1",
+    "typescript": "^5.4.5"
+  },
+  "packageManager": "pnpm@8.14.1+sha1.d039b38e0b20ad012ed548e44267b8d4c88b447a"
+}
